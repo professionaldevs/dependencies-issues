@@ -2,7 +2,7 @@ package org.professionaldevs.products;
 
 public class ProductUtils {
 
-    public static String getBarCode(String id){
-        return "mocked-version-02";
+    public static String getProductCode(String id){
+        return "mocked-version-03";
     }
 }
